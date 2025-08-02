@@ -1,4 +1,4 @@
-<h1 align="center">✨ Next.js Full Course - Build a Social App ✨</h1>
+<h1 align="center">✨ Welcome to Socially ✨</h1>
 
 Highlights:
 
